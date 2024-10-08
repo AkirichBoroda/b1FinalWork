@@ -1,0 +1,14 @@
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\bin\Debug\net7.0\finalwork.exe
+C:\Users\Viktor\Desktop\учоба\b1FinalWork\bin\Debug\net7.0\finalwork.deps.json
+C:\Users\Viktor\Desktop\учоба\b1FinalWork\bin\Debug\net7.0\finalwork.runtimeconfig.json
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\bin\Debug\net7.0\finalwork.dll
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\bin\Debug\net7.0\finalwork.pdb
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.AssemblyInfoInputs.cache
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.AssemblyInfo.cs
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.csproj.CoreCompileInputs.cache
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.dll
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\refint\finalwork.dll
+c:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.pdb
+C:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\finalwork.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\учоба\b1FinalWork\obj\Debug\net7.0\ref\finalwork.dll

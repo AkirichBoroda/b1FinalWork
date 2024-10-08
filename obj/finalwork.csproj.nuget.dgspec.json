@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\Desktop\\учоба\\Новая папка\\b1FinalWork\\finalwork\\finalwork.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\учоба\\b1FinalWork\\finalwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\Desktop\\учоба\\Новая папка\\b1FinalWork\\finalwork\\finalwork.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\учоба\\b1FinalWork\\finalwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\учоба\\Новая папка\\b1FinalWork\\finalwork\\finalwork.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\учоба\\b1FinalWork\\finalwork.csproj",
         "projectName": "finalwork",
-        "projectPath": "C:\\Users\\Viktor\\Desktop\\учоба\\Новая папка\\b1FinalWork\\finalwork\\finalwork.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\учоба\\b1FinalWork\\finalwork.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\Desktop\\учоба\\Новая папка\\b1FinalWork\\finalwork\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\учоба\\b1FinalWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config"
